@@ -1,0 +1,36 @@
+{
+  "name": "cfx.seed-markdown",
+  "version": "0.0.0",
+  "description": "My New Project description.",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "url": "https://github.com/ch345073110/cfx.seed-markdown.git",
+    "type": "git"
+  },
+  "author": "ChenHuan <13986142542@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cfx.simple-build-tool": "^0.0.12",
+    "ddeyes": "^0.2.8",
+    "umi": "^1.3.5"
+  },
+  "dependencies": {
+    "antd": "^3.6.1",
+    "cfx.react.dom": "0.0.10",
+    "react-html-parser": "2.0.2",
+    "cfx.require-plugin-coffee": "~0.2.10",
+    "cfx.rollup-plugin-coffee2": "~0.2.10", 
+    "del": "~3.0.0",
+    "gulp": "~3.9.1",
+    "gulp-better-rollup": "~3.1.0",
+    "gulp-rename": "~1.2.3",
+    "gulp-sequence": "~1.0.0",
+    "rollup": "~0.59.4",
+    "rollup-plugin-cleanup": "~3.0.0-beta.1",
+    "rollup-plugin-image": "~1.0.2",
+    "rollup-plugin-re": "~1.0.7"    
+  }
+}
